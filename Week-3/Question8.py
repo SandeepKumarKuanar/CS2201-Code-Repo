@@ -1,13 +1,13 @@
 #print("Hello, World!") ## this is real test
 d = {1 : 'ONE', 
-     2 : 'TWO', 
-     3 : 'THREE', 
-     4 : 'FOUR', 
-     5 : 'FIVE', 
-     6 : 'SIX', 
-     7 : 'SEVEN', 
-     8 : 'EIGHT', 
-     9 : 'NINE'
+    2 : 'TWO', 
+    3 : 'THREE', 
+    4 : 'FOUR', 
+    5 : 'FIVE', 
+    6 : 'SIX', 
+    7 : 'SEVEN', 
+    8 : 'EIGHT', 
+    9 : 'NINE'
 }
 print("I will convert all number into words only")
 number = input("What is the number, that You wanna input to the program\n")
