@@ -27,6 +27,7 @@ print(x)
 print(y)
 ## mapping
 import matplotlib.pyplot as plt
+plt.xkcd()
 plt.text(x[0], y[0]-0.5, "start") #prints "start" at coordinates (x[0], y[0]-0.5)
 plt.text(x[-1], y[-1]-0.5, "six") #print "six" at the last throw
 plt.plot(x, y, 'o:r') # using marker string 
